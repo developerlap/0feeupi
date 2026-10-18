@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="28830.png" alt="0FeeUPI Logo" width="90" />
+  <img src="e4e03052-8be2-4e1d-8b53-a8d0996943e6.jpg" alt="0FeeUPI Logo" width="90" />
   <h1>🛡️ 0FeeUPI — Collect Full Amount. Pay ₹0 Fees.</h1>
   <p><strong>100% Client-Side, Open-Source Automatic UPI QR Code Splitter</strong></p>
 
